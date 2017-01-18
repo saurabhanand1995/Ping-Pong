@@ -3,4 +3,4 @@ Run the code on http://www.codeskulptor.org/ or you can install the python packa
 
 Controls:
 Player 1: keys 'w' and 's'
-Palyer 2: keys '↑' and '↓'
+Player 2: keys '↑' and '↓'
